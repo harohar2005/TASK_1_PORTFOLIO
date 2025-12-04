@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: #15703d;
-    color: white;
+    background-color: #3db370;
+    color: #a062f0;
     padding: 10px 0;
     text-align: center;
 }
@@ -48,7 +48,7 @@ form input[type="submit"] {
 
 section {
     padding: 20px;
-    background-color: #d5ed68;
+    background-color: #68e6ed;
     margin: 20px 0;
 }
 

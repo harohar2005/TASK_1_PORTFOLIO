@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #155670;
     color: #333;
 }
 
 header {
-    background-color: #191818;
+    background-color: #15703d;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -38,7 +38,7 @@ nav a {
 }
 
 form input[type="submit"] {
-    background-color: #7ea7a3;
+    background-color: #c693d9;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -59,7 +59,7 @@ section {
 }
 
 #PROJECTS .project {
-    background-color: #f3d4d4;
+    background-color: #c7d993;
     padding: 15px;
     margin: 10px;
     border-radius: 5px;
@@ -91,7 +91,7 @@ section {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #a3e6e6;
+    border: 1px solid #e87c51;
     border-radius: 5px;
 }
 
